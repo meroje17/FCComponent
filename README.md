@@ -3,9 +3,11 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Star](https://img.shields.io/badge/star-0-blueviolet)
 
-<img src="1.gif" width="300" />
-<img src="2.gif" width="300" />
-<img src="3.gif" width="300" />
+<div>
+  <img src="assets/1.gif" height="220" />
+  <img src="assets/2.gif" height="220" />
+  <img src="assets/3.gif" height="220" />
+</div>
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -54,7 +56,7 @@ function App() {
 
 ## Exemple 
 
-<img src="exemple.gif" width="250" />
+<img src="assets/exemple.gif" width="250" />
 
 ```jsx
 import FlipCard from "custom-flip-card-component";
@@ -85,7 +87,7 @@ export default App;
 
 ### Exemple 2
 
-<img src="exemple2.gif" width="250" />
+<img src="assets/exemple2.gif" width="250" />
 
 ```jsx
 import FlipCard from "custom-flip-card-component";
@@ -114,7 +116,7 @@ export default App;
 
 ### Exemple 3
 
-<img src="exemple3.gif" width="250" />
+<img src="assets/exemple3.gif" width="250" />
 
 ```jsx
 import FlipCard from "custom-flip-card-component";
