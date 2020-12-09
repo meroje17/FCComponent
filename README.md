@@ -59,7 +59,7 @@ function App() {
 <img src="assets/exemple.gif" width="250" />
 
 ```jsx
-import FlipCard from "custom-flip-card-component";
+import FlipCard from "fc-component";
 
 function App() {
   return (
@@ -90,7 +90,7 @@ export default App;
 <img src="assets/exemple2.gif" width="250" />
 
 ```jsx
-import FlipCard from "custom-flip-card-component";
+import FlipCard from "fc-component";
 
 function App() {
   return (
@@ -119,7 +119,7 @@ export default App;
 <img src="assets/exemple3.gif" width="250" />
 
 ```jsx
-import FlipCard from "custom-flip-card-component";
+import FlipCard from "fc-component";
 
 function App() {
   return (
