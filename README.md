@@ -54,6 +54,8 @@ function App() {
 
 ## Color
 
+<img src="assets/color-guide.png" width="400" />
+
 ## Exemple 
 
 <img src="assets/exemple.gif" width="250" />
