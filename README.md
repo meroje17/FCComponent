@@ -38,19 +38,19 @@ function App() {
 
 ## Documentation
 
-| Property | Type | Description | Options |
+| Property | Type | Value | Description |
 | :---: | --- | --- | --- |
-| colorFront | `String` | Background color for front card | ref. Color guide |
-| colorBack | `String` | Background color for back card | ref. Color guide |
-| textColorFront | `String` | Text color for front card | ref. Color guide |
-| textColorBack | `String` | Text color for back card | ref. Color guide |
-| textFront | `String` | Text will display on front card | Any string |
-| textBack | `String` | Text will display on back card | Any String |
-| height | `Number` | Height of component | [1...∞] |
-| width | `Number` | Width of component | [1...∞] |
-| innerPadding | `Number` | Padding of component | [1...∞] |
-| fontSize | `Number` | Size of font, attribute for textFront and textBack | [1...∞] |
-| rotationAxis | `String` | The axis of rotation on which the card will rotate.  | `"x"` or `"y"` |
+| colorFront | `String` | ref. Color guide | Background color for front card |
+| colorBack | `String` | ref. Color guide | Background color for back card | 
+| textColorFront | `String` | ref. Color guide | Text color for front card | 
+| textColorBack | `String` | ref. Color guide | Text color for back card | 
+| textFront | `String` | Any string | Text will display on front card | 
+| textBack | `String` | Any String | Text will display on back card | 
+| height | `Number` | [1...∞] | Height of component | 
+| width | `Number` | [1...∞] | Width of component | 
+| innerPadding | `Number` | [1...∞] | Padding of component | 
+| fontSize | `Number` | [1...∞] | Size of font, attribute for textFront and textBack | 
+| rotationAxis | `String` | `"x"` or `"y"` | The axis of rotation on which the card will rotate.  | 
 
 ## Color
 
