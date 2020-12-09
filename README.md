@@ -4,9 +4,9 @@
 ![Star](https://img.shields.io/badge/star-0-blueviolet)
 
 <div>
-  <img src="assets/1.gif" height="220" />
-  <img src="assets/2.gif" height="220" />
-  <img src="assets/3.gif" height="220" />
+  <img src="assets/1.gif" height="180" />
+  <img src="assets/2.gif" height="180" />
+  <img src="assets/3.gif" height="180" />
 </div>
 
 - [Installation](#installation)
