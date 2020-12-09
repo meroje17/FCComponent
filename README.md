@@ -20,14 +20,14 @@
 ## Installation 
 
 ```
-npm i fc-component
+npm i fc-card-component
 ```
 
 ## Usage
 
 ```jsx
 import React from 'react';
-import FlipCard from 'fc-component';
+import FlipCard from 'fc-card-component';
 
 function App() {
   return <div>
@@ -59,7 +59,7 @@ function App() {
 <img src="assets/exemple.gif" width="250" />
 
 ```jsx
-import FlipCard from "fc-component";
+import FlipCard from "fc-card-component";
 
 function App() {
   return (
@@ -90,7 +90,7 @@ export default App;
 <img src="assets/exemple2.gif" width="250" />
 
 ```jsx
-import FlipCard from "fc-component";
+import FlipCard from "fc-card-component";
 
 function App() {
   return (
@@ -119,7 +119,7 @@ export default App;
 <img src="assets/exemple3.gif" width="250" />
 
 ```jsx
-import FlipCard from "fc-component";
+import FlipCard from "fc-card-component";
 
 function App() {
   return (
